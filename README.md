@@ -1,11 +1,22 @@
-# 💫 About Me:
-🔭 Currently Working On: E-learning platforms and real-time AI-driven projects that solve real-world challenges while emphasizing scalability and performance.<br>👯 Looking to Collaborate On: Full-Stack Development, innovative technology solutions.<br>🤝 Seeking Help With: Refining my AWS and Cybersecurity skills to enhance my ability to build secure and scalable applications.<br>🌱 Currently Learning: Expanding my expertise in Full-Stack Development with a focus on React.js, Node.js, and MongoDB while diving deeper into UI/UX design principles.<br>💬 Ask me about my skill set: Frontend: HTML, CSS, JavaScript, Bootstrap, Flexbox, and UX/UI Design<br>
-Backend: Python, MongoDB, and SQLite<br>
-Tools & Platforms: AWS, Git, RESTful APIs, and Microsoft Power BI<br>
-Other Skills: Data Structures & Algorithms, Agile Development <br>⚡ Fun fact: I’m an aspiring IT innovator and Full-Stack Web Developer passionate about building scalable, responsive web applications. As a hackathon enthusiast and problem solver, I thrive on challenges. But truth be told, I’m just a little lazy with all the above! 😄
+  # Hi👋, I'm L Pavan Kumar Reddy
+🔭 Currently Working On: E-learning platforms and real-time 
+<br>
+🌱 I’m currently learning Full Stack
+<br>
+👯 I’m looking to collaborate with Full-Stack Developers
+<br>
+🤝 Seeking Help With: Refining my AWS and Cybersecurity skills to enhance my ability to build secure and scalable applications.
+<br>
+💬 Ask me about: HTML, CSS, JS, C, PYTHON, SQLite
+<br>
+📫 Reach me: [send me an email](mailto:lpavankumarreddy54@gmail.com)
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pavan.lingam.33) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavanreddylingam) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-kumar-reddy-lingam) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PavanLingam12) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JourneyFrames0.1) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/pavan.lingam.33) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pavanreddylingam) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-kumar-reddy-lingam) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PavanLingam12)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@JourneyFrames0.1) 
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
