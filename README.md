@@ -29,3 +29,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lpkumarreddy&show_icons=true&locale=en&layout=compact" alt="lpkumarreddy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lpkumarreddy&show_icons=true&locale=en" alt="lpkumarreddy" /></p>
+
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/lpavankumarredd1)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/PAVAN_449?ext=heatmap)
+
+
