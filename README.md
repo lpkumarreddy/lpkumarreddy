@@ -1,4 +1,4 @@
-<img src="https://private-user-images.githubusercontent.com/119948075/378346212-2959cd78-2fd9-459e-b0be-a55d9c218a84.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzk1MTc3OTksIm5iZiI6MTczOTUxNzQ5OSwicGF0aCI6Ii8xMTk5NDgwNzUvMzc4MzQ2MjEyLTI5NTljZDc4LTJmZDktNDU5ZS1iMGJlLWE1NWQ5YzIxOGE4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIxNFQwNzE4MTlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZDc1ZjlmMTU5ZGY3YzI0YTRmYmExYTNkZDhiMzljZDNiZDQ2NDhiN2M5MTllMTY4N2MzMzg1OGE1YjNkZGM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.mgCFJUM1FEk4v8QvUgWwwlYjXSq0PwJEpi842s9yteE" />
+<img src="https://i.ibb.co/MxDmSkRk/github-header-image-3.png" />
 <h1 align="center">Hi 👋, I'm L Pavan Kumar Reddy</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
