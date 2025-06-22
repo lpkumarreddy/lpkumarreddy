@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pavan-kumar-reddy-lingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-kumar-reddy-lingam" height="30" width="40" /></a>
-<a href="https://instagram.com/pkr_lingam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pkr_lingam" height="30" width="40" /></a>
+<a href="https://www.instagram.com/pavanreddy.lingam?igsh=MW9jeWp4cmw1dWFxNQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pkr_lingam" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/journeyframes0.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="journeyframes0.1" height="30" width="40" /></a>
 </p>
 
