@@ -6,7 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lpkumarreddy&label=Profile%20views&color=0e75b6&style=flat" alt="lpkumarreddy" /> </p>
 
-- 🔭 I’m currently working on **E-learning platforms and real-time**
+- 🔭 I’m currently working on **E-learning CDP (Career Development Platform) and real-time**
+- “CDP is built for every student who ever asked, ‘Where do I even start?’”
 
 - 🌱 I’m currently learning **Full Stack**
 
