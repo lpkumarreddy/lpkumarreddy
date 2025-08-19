@@ -33,25 +33,5 @@
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-Profile-blue?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/profile/lpavankumarredd1)
 
-## 🏆 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/your_username?ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <!-- Core Progress Badges -->
-  <img src="https://img.shields.io/badge/Solved-Easy-success?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Solved-Medium-orange?style=for-the-badge&logo=leetcode" />
-  <img src="https://img.shields.io/badge/Solved-Hard-red?style=for-the-badge&logo=leetcode" />
-</p>
-
-<p align="center">
-  <!-- Special Achievements -->
-  <img src="https://img.shields.io/badge/SQL-Top%2050%20Completed-blue?style=for-the-badge&logo=mysql" />
-  <img src="https://img.shields.io/badge/DSA%20Grind-100%20Days🔥-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Ranking-Top%2010%25-brightgreen?style=for-the-badge&logo=leetcode" />
-</p>
-
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/PAVAN_449?ext=heatmap)
 
