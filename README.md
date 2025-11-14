@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Developers**
 
-- 💬 Ask me about **HTML, CSS, JS, C, PYTHON, SQLite**
-
 - 📫 Reach me **lpavankumarreddy54@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
